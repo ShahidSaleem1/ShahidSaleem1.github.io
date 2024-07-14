@@ -165,8 +165,13 @@ nav ul li a {
 #home {
   text-align: center;
   padding: 50px 0;
-  background: url('') no-repeat center center/cover;
+  background: url('/css/images/images\ \(1\).jfif') no-repeat center center/cover;
   color: #fff;
+}
+.img {
+  height: 500px;
+  width: 900px;
+  border: none;
 }
 
 #home h1 {
