@@ -10,24 +10,23 @@
   --background-color: #f5f5f5;
   --text-color: #333;
 }
+ 
+
 body {
-  background-image: radial-gradient(circle, #a50613, #ffc371);
-  /* Adjust gradient shape and colors */
-  /* Example: radial-gradient(shape size, color1, color2, ...); */
+  background-image: linear-gradient(to bottom right, #4e54c8, #8f94fb);
+  /* Adjust gradient direction and colors */
 }
 
-
-
-/* body {
-  background-color: var(--background-color);
-  color: var(--text-color);
-} */
+body {
+  background-color: var(red);
+  color: var(white);
+}
 
 body {
   font-family: 'Roboto', sans-serif;
   line-height: 1.6;
   padding: 20px;
-  background: #f4f4f4;
+  
 }
 
 nav {
@@ -166,7 +165,7 @@ nav ul li a {
 #home {
   text-align: center;
   padding: 50px 0;
-  background: url('images/images\ \(1\).jfif') no-repeat center center/cover;
+  background: url('') no-repeat center center/cover;
   color: #fff;
 }
 
