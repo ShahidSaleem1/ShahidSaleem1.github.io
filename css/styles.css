@@ -10,6 +10,13 @@
   --background-color: #f5f5f5;
   --text-color: #333;
 }
+body {
+  background-image: linear-gradient(to bottom right, #4e54c8, #8f94fb);
+  /* Adjust gradient direction and colors */
+  /* You can use color names, hex codes, RGB, or RGBA values */
+  /* Example: linear-gradient(direction, color1, color2, ...); */
+}
+
 
 body {
   background-color: var(--background-color);
