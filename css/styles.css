@@ -11,17 +11,17 @@
   --text-color: #333;
 }
 body {
-  background-image: linear-gradient(to bottom right, #2d35c6, #6166c8);
-  /* Adjust gradient direction and colors */
-  /* You can use color names, hex codes, RGB, or RGBA values */
-  /* Example: linear-gradient(direction, color1, color2, ...); */
+  background-image: radial-gradient(circle, #a50613, #ffc371);
+  /* Adjust gradient shape and colors */
+  /* Example: radial-gradient(shape size, color1, color2, ...); */
 }
 
 
-body {
+
+/* body {
   background-color: var(--background-color);
   color: var(--text-color);
-}
+} */
 
 body {
   font-family: 'Roboto', sans-serif;
