@@ -168,11 +168,14 @@ nav ul li a {
   background: url('/css/images/images\ \(1\).jfif') no-repeat center center/cover;
   color: #fff;
 }
-.img {
-  height: 500px;
-  width: 400px;
-  border: none;
+#hometwo {
+  text-align:left;
+  padding: 200px 0;
+  background: url("/css/images/joshua-woroniecki-lzh3hPtJz9c-unsplash.jpg") no-repeat center center/cover;
+  color:rgb(6, 143, 6)
 }
+
+
 
 #home h1 {
   font-size: 2.5em;
