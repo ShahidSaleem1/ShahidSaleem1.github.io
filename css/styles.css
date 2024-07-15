@@ -177,16 +177,16 @@ nav ul li a {
 
 .figure {
 display: block;
-margin-left: auto;
-margin-right: auto;
+/* margin-left: auto;
+margin-right: auto; */
 height: 400px;
 width: 400;
 }
-#figure-on {
+/* #figure-on {
 display: block;
 margin-left: auto;
 margin-right: auto;
-}
+} */
 
 
 #home h1 {
