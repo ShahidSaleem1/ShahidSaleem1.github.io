@@ -175,18 +175,18 @@ nav ul li a {
   color:rgb(6, 143, 6)
 }
 
-.figure {
-display: block;
-/* margin-left: auto;
-margin-right: auto; */
-height: 400px;
-width: 400;
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
 }
-/* #figure-on {
-display: block;
-margin-left: auto;
-margin-right: auto;
-} */
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 
 #home h1 {
